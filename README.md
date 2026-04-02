@@ -190,6 +190,14 @@ The `dist/` directory contains the production-ready files. Deploy this directory
 - Use HTTPS in production
 - Implement proper authentication for production use
 
+  ## 👨‍💻 My Contribution
+
+- Contributed to frontend application structure using React and Vite
+- Assisted in integrating frontend with backend APIs for agent-based pharmaceutical analysis
+- Worked on implementing responsive UI components for better user experience
+- Contributed to concepts of Agentic AI workflows and Generative AI integration in the application
+- Supported testing, debugging, and improving API interaction and data visualization
+
 ## 📄 License
 
 [Add license information]
